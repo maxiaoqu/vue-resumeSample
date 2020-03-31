@@ -20,9 +20,9 @@
 
 ## 简历预览
 <p align="center">
-    <img src="https://github.com/maxiaoqu/vue-resumeSample/image/demo1.png">
-    <img src="https://github.com/maxiaoqu/vue-resumeSample/image/demo2.png">
-    <img src="https://github.com/maxiaoqu/vue-resumeSample/image/demo3.png">
+    <img src="https://github.com/maxiaoqu/vue-resumeSample/blob/master/image/demo1.png">
+    <img src="https://github.com/maxiaoqu/vue-resumeSample/blob/master/image/demo2.png">
+    <img src="https://github.com/maxiaoqu/vue-resumeSample/blob/master/image/demo3.png">
 </p>
 
 ## 安装
